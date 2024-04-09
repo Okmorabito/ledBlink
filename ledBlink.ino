@@ -13,4 +13,5 @@ void loop() {
   digitalWrite(ledPin, LOW);
   delay(250);
   digitalWrite(ledPin2, LOW);
+  Serial.println("It's never going to end is it?");
 }
